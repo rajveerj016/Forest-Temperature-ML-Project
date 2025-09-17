@@ -28,9 +28,12 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 ## Sample Output
 
 When running `forest_temperature.py` with the generated dataset, you can expect outputs like:
+
+```plaintext
 A histogram plot of the temperature prediction errors will also be displayed:
 
 - **X-axis:** Prediction Error (°C)  
 - **Y-axis:** Frequency of errors  
+```
 
 This helps visualize how accurate the Random Forest model is at predicting forest temperatures.
