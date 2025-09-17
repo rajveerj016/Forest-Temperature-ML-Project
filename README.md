@@ -22,5 +22,5 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
    ```
 3. Run the ML project:
    ```bash
-   python3 forest_temperature.py
+   python3 forest_temperature.pys
    ```
